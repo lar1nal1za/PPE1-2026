@@ -1,0 +1,4 @@
+cat *.ann | wc -l
+cat *.ann | grep "Location" | wc -l
+grep "Location" *.ann | cut -f 3 | sort | uniq -c | sort -n | tail -15
+cat 2016/*_07*.ann 2017/*_07*.ann 2018/*_07*.ann | grep "Location" | cut -f 3 | sort | uniq -c | sort -n | tail -15

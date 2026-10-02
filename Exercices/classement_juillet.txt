@@ -1,0 +1,15 @@
+5 Philippines
+6 Savoie
+7 Japon
+7 Nice
+7 Pologne
+7 Syrie
+8 Portugal
+8 Élysée
+10 États-Unis
+11 Espagne
+11 Pyrénées
+12 Allemagne
+14 Rio
+16 Paris
+35 France
