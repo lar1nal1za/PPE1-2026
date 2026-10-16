@@ -8,8 +8,7 @@ créé le journal de bord et utilisé git pull pour synchroniser
 mon dépôt local avec le dépôt distant.
 
 
-Erreur
-Blablabla
+
 
 
 
