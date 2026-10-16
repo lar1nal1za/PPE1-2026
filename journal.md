@@ -8,7 +8,8 @@ créé le journal de bord et utilisé git pull pour synchroniser
 mon dépôt local avec le dépôt distant.
 
 
-
+Erreur
+Blablabla
 
 
 
@@ -26,3 +27,10 @@ mon dépôt local avec le dépôt distant.
 # Séance 3
 ## exercices git
 Cette ligne doit rester après correction.
+
+
+Je travaille à distance 
+
+
+
+Je n'aime pas travailler à distance.
