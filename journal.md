@@ -25,7 +25,7 @@ Blablabla
 
 
 # Séance 3
-## exercices git
+## exercices git correction d'erreurs 
 Cette ligne doit rester après correction.
 
 
