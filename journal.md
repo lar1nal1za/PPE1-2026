@@ -35,3 +35,7 @@ Je travaille à distance
 
 Je n'aime pas travailler à distance.
 
+# explication du script Bash
+
+Ce script attend un argument : le chemin d’un fichier contenant des URL. Si le nombre d’arguments est incorrect, il affiche un message et s’arrête. Il initialise deux compteurs, OK et NOK, à zéro. La boucle while lit le fichier ligne par ligne avec la commande read -r LINE et la redirection <. Pour chaque ligne, le script vérifie avec l’expression régulière ^https?:// si elle commence par http:// ou https://. Si oui, il augmente le compteur OK ; sinon, il augmente le compteur NOK. À la fin, il affiche le nombre de lignes ressemblant à des URL et le nombre de lignes douteuses. 
+
